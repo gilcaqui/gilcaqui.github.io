@@ -5,8 +5,9 @@ pkgs.mkShell {
   ];
 
   shellHook = ''
-    echo "Build the project with 'npm i && npx quartz build --serve"
-    echo "Deploy with 'npx quartz sync'"
+    echo "Fetch dependencies with 'npm i'"
+    echo "Run the project locally with 'npx quartz build --serve"
+    echo "Or simply deploy with 'npx quartz sync'"
   '';
 }
 

@@ -1,7 +1,7 @@
 ---
 title: fevereiro, março, abril 2026
 ---
-![650](https://mdl.artvee.com/sftb/240747fg.jpg)
+![[the expulsion.png]]
 charles degraux - the expulsion
 
 talvez a minha pintura favorita de momento (abril, 27). fiquei a conhecê-la após a minha primeira, e até agora única, visita ao msk. o max apontou como gostou que a destruição do telhado fosse ilustrada por um esboço tênue de pessoas a consertar parte da ruína, e que por sua vez pudessem ser confundidas como os próprios destroços (se semicerrares os olhos não passam de manchas indefinidas) dois homens debruçados, duas pequenas colinas, dois pares de joelhos dobrados sobre um fragmento de telha de barro. 

@@ -4,7 +4,7 @@ description:
 ---
 # Ensaios
 
--  [[Ensaio redigidos durante a licenciatura]]
+-  [[Ensaios redigidos durante a licenciatura]]
 
 # Referências 
 

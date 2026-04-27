@@ -4,8 +4,8 @@ description:
 ---
 # Ensaios
 
-- O meu primeiro ensaio: [[Ensaio N 1]]
+- O meu primeiro ensaio: [[Ensaio redigidos durante a licenciatura]]
 
 # Referências 
 
-- 
+- Pinturas que se destacaram nos museus que visitei no início deste ano: [[museus]]

@@ -4,7 +4,7 @@ description:
 ---
 # Ensaios
 
-- O meu primeiro ensaio: [[Ensaio redigidos durante a licenciatura]]
+-  [[Ensaio redigidos durante a licenciatura]]
 
 # Referências 
 

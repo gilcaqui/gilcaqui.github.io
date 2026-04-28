@@ -16,4 +16,5 @@ ao camponês arregaçando as mangas do aimé jules dalou, afinal torcem do mesmo
 
 
 ![[young girl on a red carpet.jpg|697]]
+
 Felice Casorati -  young girl on a red carpet

@@ -8,4 +8,4 @@ description:
 
 # Referências 
 
-- Pinturas que se destacaram nos museus que visitei no início deste ano: [[museus]]
+- Pinturas que se destacaram nos museus que visitei no início deste ano: [[aqui]]

@@ -9,4 +9,9 @@ description:
 # Referências 
 
 - Pinturas que se destacaram nos museus que visitei no início deste ano: [[aqui]]
-- Fotógrafas: Dayanita Singh ¶ Ruth Orkin
+
+- As fotógrafas do semestre passado: [[Dayanita Singh ¶ Ruth Orkin]]
+
+- 26 abril 2024 | [[itália e madrid]]
+
+- Não precisam de contexto, são os grandes: [[Vittore Carpaccio ¶ Peter Paul Rubens]]

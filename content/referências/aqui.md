@@ -39,6 +39,11 @@ Anna de Weert - my studio in june
 
 a última obra destes primeiros meses do ano é intitulada caridade, uma estátua de bronze feita pelo artista Alfred Gilbert. uma mulher protegida quase totalmente por uma veste segura ao seu colo duas crianças pequenas. sem nem os pés a se verem, as únicas partes do corpo descobertas são o rosto e uma das suas mãos, a impressão que dá é que as crianças são os seus pulmões pela maneira como o tecido as contorna, abre um espaço para ficarem encaixadas, como se fizessem parte do seu organismo. é uma imagem pesada mas que me faz pensar numa das minhas obras favoritas *Tokiwa-Gozen with her three children in the snow* do Utagawa Kuniyoshi
 
+
+![[Siciliaanse Jaarmarkt.jpeg]]
+
+afinal ainda há mais uma! quase me esqueci desta pintura absolutamente fantástica. Gé Röling, Siciliaanse jaarmarkt
+
 -------------
 
 Menções Honrosas:
@@ -47,3 +52,4 @@ Menções Honrosas:
 - Mondriaan, dune 
 - Ramon Casas, decadent young woman (after the dance)
 - Aimes Jules Dalou, peasant rolling up his sleeves
+- Emile Schuffenecker

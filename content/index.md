@@ -9,3 +9,4 @@ description:
 # Referências 
 
 - Pinturas que se destacaram nos museus que visitei no início deste ano: [[aqui]]
+- Fotógrafas: Dayanita Singh ¶ Ruth Orkin

@@ -5,6 +5,8 @@ description:
 # Ensaios
 
 -  [[Ensaios redigidos durante a licenciatura]]
+- the incredible shrinking man = do androids dream of electric sheep
+- conheces este sentimento?
 
 # Referências 
 
@@ -14,4 +16,8 @@ description:
 
 - 26 abril 2024 | [[itália e madrid]]
 
-- Não precisam de contexto, são os grandes: [[Vittore Carpaccio ¶ Peter Paul Rubens]]
+- Não precisa de contexto: [[Vittore Carpaccio ¶ Peter Paul Rubens]]
+
+- Pierre bonnard, 
+
+

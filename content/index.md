@@ -6,7 +6,7 @@ description:
 
 -  [[Ensaios redigidos durante a licenciatura]]
 - the incredible shrinking man = do androids dream of electric sheep
-- conheces este sentimento?
+
 
 # Referências 
 

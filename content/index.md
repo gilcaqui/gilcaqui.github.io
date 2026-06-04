@@ -14,9 +14,9 @@ description:
 
 - Predilectas do semestre passado: [[D ¶ R]]
 
-- 26 abril 2024 | [[itália e madrid]]
+- 26 abril 2024 | [[viagens]]
 
-- Não precisa de contexto: [[Vittore Carpaccio ¶ Peter Paul Rubens]]
+- Não precisa de contexto: [[V ¶ P]]
 
 - Pierre bonnard, 
 

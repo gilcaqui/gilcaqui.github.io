@@ -1,14 +1,12 @@
 **literary analysis of Charlotte Gilman's poem _I Would Fain Die a Dry Death_**
 
 	Catarina Mesquita and Giulia Giulianelli
+	Trigger Warning: The language and images used in this blog might not be suitable for some readers.
 
 > It is not so much that it kills us— 
 > We are used to being killed; 
 > But we like to know what fills us 
 > When we pay for being filled 
-
-Trigger Warning: The language and images used in this blog might not be suitable for some readers.
-
 
 According to the U.S. Department of Health and Human Services, to obtain a sustainable diet, one must eat a wholesome variety of the best available foods and nutrients, ensuring the maximum possible health benefits. “The message is simple: eat real food.” (2026), nevertheless, nearly 90% of health care is spent in treatment for chronic diseases linked to malnourishment, with more than 70% of American adults being overweight or obese. 
 

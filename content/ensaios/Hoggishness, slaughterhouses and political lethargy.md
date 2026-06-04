@@ -2,7 +2,7 @@ literary analysis of Charlotte Gilman's poem _I Would Fain Die a Dry Death_
 
 Trigger Warning: The language and images used in this blog might not be suitable for some readers.
 
-	Catarina Mesquita and Giulia Giulianelli
+==Catarina Mesquita and Giulia Giulianelli==
 
 	**It is not so much that it kills us— 
 	We are used to being killed; 

@@ -12,7 +12,7 @@ description:
 
 - Pinturas que se destacaram nos museus que visitei no início deste ano: [[aqui]]
 
-- As fotógrafas do semestre passado: [[Dayanita Singh ¶ Ruth Orkin]]
+- Predilectas do semestre passado: [[D ¶ R]]
 
 - 26 abril 2024 | [[itália e madrid]]
 

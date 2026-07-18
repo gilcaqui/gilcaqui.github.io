@@ -4,20 +4,20 @@ description:
 ---
 # Ensaios
 
--  [[Ensaios redigidos durante a licenciatura]]
+- [[FCSH]]
 - the incredible shrinking man = do androids dream of electric sheep
 
 
 # Referências 
 
-- Pinturas que se destacaram nos museus que visitei no início deste ano: [[aqui]]
+- msk; V&A; Van Abbe ‹ [[aqui]]
 
-- Predilectas do semestre passado: [[D ¶ R]]
+- fotografia ‹ [[D ¶ R]]
 
-- 26 abril 2024 | [[viagens]]
+- abril 2024 ‹ [[registos]]
 
-- Não precisa de contexto: [[V ¶ P]]
+- clássicos ‹ [[V ¶ P]]
 
-- Pierre bonnard, 
+- predileto ‹ Pierre bonnard
 
 

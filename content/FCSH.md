@@ -4,7 +4,7 @@
 
 - [ ] [[Hoggishness, slaughterhouses and political lethargy]] a literary analysis of Charlotte Gilman's poem _I Would Fain Die a Dry Death_
 
-- [ ]  A Morte de Graciela Iturbide
+- [ ]  [[A Morte de Graciela Iturbide]]
 
 - [ ] Aranhas e Galáxias (Crítica epistolar)
 

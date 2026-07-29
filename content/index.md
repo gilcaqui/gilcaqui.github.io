@@ -6,18 +6,29 @@ description:
 
 - [[FCSH]]
 - the incredible shrinking man = do androids dream of electric sheep
+-  Amaranta
+
+# Rascunhos
+
+# Pinturas
 
 
 # Referências 
 
-- msk; V&A; Van Abbe ‹ [[aqui]]
+- msk; v&a; van abbe ‹ [[aqui]]
+-  pintura ‹ [[catálogo]]
 
 - fotografia ‹ [[D ¶ R]]
 
-- abril 2024 ‹ [[registos]]
+- destaques ‹ [[V ¶ P]]
 
-- clássicos ‹ [[V ¶ P]]
+- destaque ‹ Pierre bonnard
 
-- predileto ‹ Pierre bonnard
+-  [[pintoras]]
+
+- clássicos < arte que, a meu ver, permanece imperecível
+
+
+
 
 

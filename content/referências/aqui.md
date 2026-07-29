@@ -12,12 +12,11 @@ entretanto reparo como não dá a mão à filha mas segura no seu pulso, é algo
 faz-me pensar no Macario.
 
 
-
-![[young girl on a red carpet.jpg|697]]
+![[young girl on a red carpet.jpg|564]]
 
 Felice Casorati -  young girl on a red carpet
 
-![[Cap D'Antibes.png|570]]
+![[cap d'antibes.png|570]]
 
 Clara Voortman - Cap D'Antibes 
 
@@ -26,10 +25,8 @@ voltámos atrás porque à saída encontrámos um panfleto que propunha atividad
 1. o panfleto pediu que déssemos as mãos, mas nós já estávamos de mãos dadas
 2.  ele disse-me que sentia que reconhecia a paisagem. eu presumi que fosse uma sensação daquelas meio sonhadas mas estava enganada, calha que antibes é o sítio onde cresceu. mais do que um cenário no litoral existe uma impressão qualquer da sua infância. já não posso pensar em mais nada sem ser como seria a sua infância.
 
-
-%% acrescento: a obra Seascape at Menton (Côte d'Azur), 1922, Rodolphe De Saegher 
- %%
-%% + as suas paisagens no inverno são também notáveis %%
+	acrescento: a obra Seascape at Menton (Côte d'Azur), 1922, Rodolphe De Saegher 
+	+ + as suas paisagens no inverno são também notáveis
 
 ![[my studio in june.png|596]]
 
@@ -40,7 +37,7 @@ Anna de Weert - my studio in june
 a última obra destes primeiros meses do ano é intitulada caridade, uma estátua de bronze feita pelo artista Alfred Gilbert. uma mulher protegida quase totalmente por uma veste segura ao seu colo duas crianças pequenas. sem nem os pés a se verem, as únicas partes do corpo descobertas são o rosto e uma das suas mãos, a impressão que dá é que as crianças são os seus pulmões pela maneira como o tecido as contorna, abre um espaço para ficarem encaixadas, como se fizessem parte do seu organismo. é uma imagem com peso mas que me faz pensar numa das minhas obras favoritas *Tokiwa-Gozen with her three children in the snow* do Utagawa Kuniyoshi
 
 
-![[Siciliaanse Jaarmarkt.jpeg]]
+![[siciliaanse jaarmarkt.jpeg]]
 
 afinal falta uma! quase me esqueci desta pintura absolutamente fantástica. 
 Gé Röling, Siciliaanse jaarmarkt
@@ -49,7 +46,6 @@ Gé Röling, Siciliaanse jaarmarkt
 
 menções honrosas:
 
-- van Gogh, wheatfield
 - mondriaan, dune 
 - ramon Casas, decadent young woman (after the dance)
 - aimes Jules Dalou, peasant rolling up his sleeves

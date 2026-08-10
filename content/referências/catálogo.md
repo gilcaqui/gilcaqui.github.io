@@ -38,11 +38,8 @@ title: itália e madrid
 9. _Domenico Fetti_
 
 10. Francesco Maffei
-
-
 11. Andrea Shciavone
 12. Andrea Vaccaro
-
 
 
 

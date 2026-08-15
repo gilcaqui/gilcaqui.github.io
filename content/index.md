@@ -5,9 +5,6 @@ description:
 # Ensaios
 
 - [[FCSH]]
-- the incredible shrinking man = do androids dream of electric sheep
--  Amaranta
-
 # Rascunhos
 - [[desenho]]
 

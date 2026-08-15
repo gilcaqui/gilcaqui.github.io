@@ -29,6 +29,7 @@ narrate it. The narration of the individual life is possible by means of univers
 each case are gradually fleshed out with circumstantial concretion. “ (Marías 1970a, p. 72, author 's emphasis [Marías 1970b, p. 87])
 
 
+
 Esta estrutura que é um dado certo, empiricamente implícito, é pressuposto e não especulativo. Permite determinar e distinguir o homem, de qualquer outro género de vida. Por isso a “vida humana” é resultado do homem. Um homem pode ser determinado pelas condições necessárias e concretas que originam “a vida humana”, isto é a “estrutura empírica da vida humana” moldada pela maneira que o humano está instalado no mundo. María enumera alguns requisitos como a infância, a adolescência, o género, a felicidade, a linguagem e o amor específicas à humanidade. Constituições empíricas tangíveis que compõem essa estrutura da vida humana, que faz parte quando se é um homem.  
 
 Angela Carballino, podia ser utilizada como um exemplo da premissa da “estrutura empírica da vida humana”, é um ser do sexo feminino, que pode falar, amar, adoecer. Como mulher pressupomos que possa engravidar, sabemos que não é cega, nem muda, nem surda, o que implica ter todas as capacidades sensoriais. A sua existência pessoal conhece a existência objetiva que a faz integrar-se num espaço comum a outros. São essas condições empíricas específicas mencionadas que permite a realidade de Angela interagir com a realidade que a ultrapassa, a “realidade radical” ou melhor, “a minha vida”. 

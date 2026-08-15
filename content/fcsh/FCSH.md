@@ -8,7 +8,7 @@
 
 - [ ] Aranhas e Galáxias (Crítica epistolar)
 
-- [ ] Reflexões sobre a obra: _São Manuel Bom, Mártir_ de Miguel de Unamuno
+- [ ]  [[São Manuel Bom, Mártir de Miguel de Unamuno]]
 
 - [ ] A voz humana, Rossellini
 

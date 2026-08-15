@@ -1,5 +1,5 @@
 ---
-aliases:
+description:
   - "Reflexões sobre a obra: São Manuel Bom, Mártir de Miguel de Unamuno"
 ---
 #### Filosofia da Religião

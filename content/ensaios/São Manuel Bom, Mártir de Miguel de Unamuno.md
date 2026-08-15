@@ -1,5 +1,9 @@
-#### Reflexões sobre a obra: São Manuel Bom, Mártir de Miguel de Unamuno
-- Filosofia da Religião 
+---
+aliases:
+  - "Reflexões sobre a obra: São Manuel Bom, Mártir de Miguel de Unamuno"
+---
+#### Filosofia da Religião
+
 
 São Manuel Bom Mártir, santo de carne e osso, mais do que pároco da aldeia Valverde de Lucerna, é um pai para todos os homens, homem no sentido de “aquele que nasce, sofre e morre - sobretudo o que morre”(Unamuno,1913, p.11).  Bondoso, honesto, diligente, empático, São Manuel Bom é também um desses homens que morre, um homem quotidiano que apesar disso é aos olhos daqueles que o rodeiam uma figura consagrada, que encarna por completo os princípios religiosos.  No entanto, a novela São Manuel Bom, Mártir não é sobre o mártir mas sobre Angela Carballino, uma das suas filhas espirituais, que à primeira vista parece só uma narradora, porém, é na verdade a personagem principal.
  

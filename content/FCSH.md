@@ -14,7 +14,7 @@
 
 - [ ] A paixão de acordo com Frankenstein
 
-- [ ] A defesa da poesia
+- [ ] [[A defesa da poesia]]
 
 - [ ] Mais uma ideia de cinema
 

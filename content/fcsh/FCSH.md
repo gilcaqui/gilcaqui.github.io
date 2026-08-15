@@ -8,9 +8,9 @@
 
 - [ ] Aranhas e Galáxias (Crítica epistolar)
 
-- [ ]  [[São Manuel Bom, Mártir de Miguel de Unamuno]]
+- [ ] [[São Manuel Bom, Mártir de Miguel de Unamuno]]
 
-- [ ] A voz humana, Rossellini
+- [ ] [[A voz humana, Rossellini]]
 
 - [ ] A paixão de acordo com Frankenstein
 

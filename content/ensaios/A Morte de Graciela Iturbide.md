@@ -1,5 +1,7 @@
 ###### Literatura e Fotografia
 ---
+	 Referente à sequência fotográfica intitulada *Muerte*
+
 
 Num primeiro olhar o centro da imagem é ocupado pela nítida estrutura óssea, duas cavidades não muito profundas, ocas, que pareceriam feitas à mão se não fosse pela sua simetria. Sucessivamente, vemos a ausência de um nariz que forma duas meias luas, uma saliência que serve quase como separação ao qual se atraca o maxilar inferior: oito pequenas pingas emolduram uma fileira de semicírculos invertidos que compõem o que seria originalmente a dentadura de trinta e dois dentes, pressupondo do princípio que este crânio ilustra o de um adulto. 
 
@@ -26,3 +28,5 @@ A tragédia regressa nas imagens seguintes, vistas lado a lado percebemos que o 
 Ciclicamente, voltamos à vida, à festa. Dezenas de pessoas, a este ponto integradas na prévia narrativa, densa, aparecem com máscaras vestidas, tal e qual a morte. Aglomeradas, não é possível procurar pelos seus olhos, os seus sorrisos, as suas feições, fazem homenagem às caveiras que vimos inicialmente, respeitam-nas, reconhecem-nas como parte de si. Unem-se no desenlace desta narrativa que sincroniza as celebrações com a morbidez, sem receio, sem banalidades, sem nada ameno para ocultar a crua realidade. E é então que a nossa noiva entra no plano, roubando as atenções, com o seu vestido branco, um branco que vimos repleto em outros locais e exéquias, até na própria natureza, uma cor que retém um significado de pureza e inocência. Depois de tanto ver a morte passear, já não é inesperado a caveira que substitui a cara da noiva. Poderia ser também um cadáver prestes a casar. Particular a estes fragmentos festivos, é a mistura entre mortos e vivos, que se dispersa até ser orgânico. Diante da porta, os transeuntes entram e saem do cemitério, dos jardins, das paisagens, tudo numa união alicerçada às fotografias de Graciela.
 
 A história que desde a primeira linha se repete, é abordada por Graciela Iturbide de um modo transcendente. É inerentemente ambígua e seja qual for o ponto de partida o final é igual. A beleza das fotografias de Graciela é saberem processar esse sentimento trágico da vida, não condenando-o à morte, mas aproveitando-se para o incluir e coabitar com ele. A perda e o luto, quanto mais forem evitados, pior é para o envelhecimento. A resistência à morte é a vida, mas devemos encará-la, conhecê-la, incorporá-la nos nossos ossos. O nosso único dever é não confundir a sua ausência com inexistência.**
+
+[^1]: Referente à obr

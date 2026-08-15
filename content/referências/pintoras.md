@@ -1,3 +1,0 @@
-
-artemisia
-jael and sisera

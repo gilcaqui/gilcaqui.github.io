@@ -4,12 +4,15 @@ description:
 ---
 # Ensaios
 - [[FCSH]]
-# Rascunhos
+
+# Obras
+
+
+# Esboços
 - [[desenho]]
-# Pinturas
+- [[pintura]]
 
-
-# Apontamentos 
+# Notas 
 
 - msk; v&a; van abbe ‹ [[aqui]]
 -  ‹ [[catálogo]]

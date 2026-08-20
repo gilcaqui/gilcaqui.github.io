@@ -15,7 +15,7 @@ description:
 # Notas 
 
 - msk; v&a; van abbe ‹ [[aqui]]
--  ‹ [[catálogo]]
+-  [[catálogo]]
 
 
 

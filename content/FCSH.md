@@ -10,7 +10,7 @@ title:
 
 - [ ]  [[A Morte de Graciela Iturbide]]
 
-- [ ] Aranhas e Galáxias (Crítica epistolar)
+- [ ] [[Aranhas e Galáxias (Crítica epistolar)]]
 
 - [ ] [[São Manuel Bom, Mártir de Miguel de Unamuno]]
 

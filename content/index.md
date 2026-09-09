@@ -17,7 +17,7 @@ description:
 
 # Notas 
 
-- msk; v&a; van abbe ‹ [[aqui]]
+- visita ao msk, v&a & van abbe ‹ [[aqui]]
 -  [[catálogo]]
 
 

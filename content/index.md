@@ -8,17 +8,14 @@ description:
 
 # Obras
 
-- Pinturas
 
 # Esboços
 
 - [[desenho]]
-- [[pintura]]
 
 # Notas 
 
 - visita ao msk, v&a & van abbe ‹ [[aqui]]
--  [[catálogo]]
 
 
 

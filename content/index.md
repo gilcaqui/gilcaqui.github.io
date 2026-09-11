@@ -8,9 +8,6 @@ description:
 
 # Obras
 
-- visuais
-- escritas
-
 # Esboços
 
 - [[desenho]]

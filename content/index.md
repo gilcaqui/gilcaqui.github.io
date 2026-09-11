@@ -12,6 +12,7 @@ description:
 # Esboços
 
 - [[desenho]]
+- [[pintura]]
 
 # Notas 
 

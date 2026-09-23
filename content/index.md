@@ -6,8 +6,6 @@ description:
 
 - [[FCSH]]
 
-# Obras
-
 # Esboços
 
 - [[desenho]]

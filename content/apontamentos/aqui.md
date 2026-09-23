@@ -42,7 +42,6 @@ a última obra que ficou comigo nestes primeiros meses do ano é intitulada cari
 afinal falta uma! quase me esqueci desta pintura absolutamente fantástica. 
 Gé Röling, Siciliaanse jaarmarkt
 
-![[Pasted image 20260923225025.png]]
 
 -------------
 

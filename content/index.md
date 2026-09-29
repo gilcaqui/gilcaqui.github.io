@@ -10,7 +10,6 @@ description:
 # Esboços
 
 - [[desenho]]
-
 - [[pintura]]
 
 # Diário 

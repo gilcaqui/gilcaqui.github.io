@@ -6,12 +6,14 @@ description:
 
 - [[FCSH]]
 
+
 # Esboços
 
 - [[desenho]]
+
 - [[pintura]]
 
-# Notas 
+# Diário 
 
 - visita ao msk, v&a & van abbe ‹ [[aqui]]
 

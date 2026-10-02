@@ -12,7 +12,7 @@ description:
 - [[desenho]]
 - [[pintura]]
 
-# Diário 
+# Solto 
 
 - visita ao msk, v&a & van abbe ‹ [[aqui]]
 

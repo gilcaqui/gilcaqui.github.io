@@ -24,4 +24,6 @@ title:
 
 - [ ] [[Comentário Brás Cubas]]
 
+- [ ] [[Comentário Clarice]]
+
 
